@@ -1,0 +1,22 @@
+{
+  "name": "chord_gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "index": "npx tsc index.ts && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedwards2/chord_gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jedwards2/chord_gen/issues"
+  },
+  "homepage": "https://github.com/jedwards2/chord_gen#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
